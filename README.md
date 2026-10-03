@@ -1,2 +1,0 @@
-# BeAnEgg
-script satya
